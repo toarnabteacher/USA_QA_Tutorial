@@ -2,7 +2,20 @@
 
 <hr>
 
-## Chapter-1 - Project Management Resources:
+## Index:
+* [Chapter-1 - Project Management Resources:](#Chapter-1)
+* [Chapter-2 - SDLC Resources:](#Chapter-2)
+* [Chapter-3 - Python Resources:](#Chapter-3)
+* [Chapter-4 - HTML Resources:](#Chapter-4)
+* [Chapter-5 - Selenium Resources:](#Chapter-5)
+* [Chapter-6 - UML and www.draw.io Resources:](#Chapter-6)
+* [Chapter-7 - MS-Office/O365 Reference Tutorial Links and Resources:](#Chapter-7)
+* [Chapter-8 - Python Tutorial:](#Chapter-8)
+
+<hr>
+
+## Chapter-1
+## Project Management Resources:
 
 **Tutorials on Project Management:**<br>
 * https://www.guru99.com/initiation-phase-project-management-life-cycle.html
@@ -18,7 +31,8 @@ http://tinyurl.com/44y8ppnj
 
 <hr>
 
-## Chapter-2 - SDLC Resources:
+## Chapter-2
+## SDLC Resources:
 
 **Pressman E-Book Download Link (8th Edition):**<br>
 https://invent.ilmkidunya.com/images/Section/12.pdf
@@ -34,7 +48,8 @@ https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
 
 <hr>
 
-## Chapter-3 - Python Resources:
+## Chapter-3
+## Python Resources:
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
@@ -64,7 +79,8 @@ https://www.onlinegdb.com/
 
 <hr>
 
-## Chapter-4 - HTML Resources:
+## Chapter-4
+## HTML Resources:
 
 **HTML Color Codes:**<br>
 https://htmlcolorcodes.com/
@@ -84,12 +100,15 @@ https://fontawesome.com/search
 
 <hr>
 
-## Chapter-5 - Selenium Resources:
+## Chapter-5
+## Selenium Resources:
 
-**Selenium Text Tutorial Link:**<br>
+**Manual/Automation Testing Text Tutorial Link:**<br>
 https://www.javatpoint.com/selenium-tutorial<br>
 https://pythonspot.com/category/selenium/<br>
-https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/
+https://readthedocs.org/projects/selenium-python/downloads/pdf/latest/<br>
+https://www.lambdatest.com/learning-hub/selenium-python<br>
+https://www.lambdatest.com/learning-hub/manual-testing<br>
 
 **Selenium Video Tutorial Link:**<br>
 https://youtube.com/playlist?list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz<br>
@@ -109,7 +128,8 @@ https://drive.google.com/drive/folders/19kPZUBzevRacCTadz-3O40waZFm_rqsU?usp=sha
 
 <hr>
 
-## Chapter-6 - UML and www.draw.io Resources:
+## Chapter-6
+## UML and www.draw.io Resources:
 
 **For Diagram Making:**<br>
 https://app.diagrams.net/
@@ -131,7 +151,8 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-## Chapter-7 - MS-Office/O365 Reference Tutorial Links and Resources:
+## Chapter-7
+## MS-Office/O365 Reference Tutorial Links and Resources:
 
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
@@ -156,7 +177,20 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
 <hr>
 
-# Python Tutorial:
+## Towards Growth and Towards Success
+
+![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
+
+<hr>
+
+## 9 Time Management Tools for Leaders
+
+![image](https://github.com/user-attachments/assets/cc9d7325-c4da-42ce-a3fb-f43993766925)
+
+<hr>
+
+## Chapter-8
+## Python Tutorial:
 
 ### Features of Python
 Python is a popular high-level programming language that is used for various purposes such as web development, data analysis, artificial intelligence, scientific computing, and more. Some of the key features of Python include:
@@ -1069,11 +1103,5 @@ print(frozen_set1 ^ frozen_set2)  # Output: frozenset({1, 2, 3, 6, 7, 8})
 In the above examples, | represents the union operator, & represents the intersection operator, - represents the difference operator, and ^ represents the symmetric difference operator.
 
 Frozen sets are useful in situations where you need a set that cannot be modified, such as when you want to use a set as a key in a dictionary or as an element in another set.
-
-<hr>
-
-## Towards Growth and Towards Success
-
-![image](https://github.com/user-attachments/assets/078e5be0-8bfb-457b-8864-4c9fc4fcedf9)
 
 <hr>
