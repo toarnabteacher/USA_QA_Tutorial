@@ -10,7 +10,7 @@
 * [Chapter-5 - Selenium Resources:](#Chapter-5)
 * [Chapter-6 - UML and www.draw.io Resources:](#Chapter-6)
 * [Chapter-7 - MS-Office/O365 Reference Tutorial Links and Resources:](#Chapter-7)
-* [Chapter-8 - Python Tutorial:](#Chapter-8) \
+* [Chapter-8 - Python Tutorial:](#Chapter-8)
 
 <hr>
 
